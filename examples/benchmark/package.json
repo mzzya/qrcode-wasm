@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@mzzya/qrcode-wasm": "^0.0.1-beta.11",
+    "qrcode": "^1.5.3"
+  }
+}
